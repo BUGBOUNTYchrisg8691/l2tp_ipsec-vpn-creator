@@ -2,8 +2,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/dotenv,python,venv,virtualenv,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=dotenv,python,venv,virtualenv,visualstudiocode
 
+### vscode ###
+.vscode/
+
 ### dotenv ###
 .env
+.env.*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
